@@ -1,0 +1,433 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 KD0QG:FcjSU1NAMlh?j>U3
+Z2 IXo[TH]f0cQE`:FnBDN>?j3
+Z3 VFe4jCmEmD2[HKN2KoFjE00
+Z4 dC:\Users\berke\Desktop\Berke\METU\CNG\2\CNG 232\Logic Lab\fibo fsm datapath
+Z5 w1654871711
+Z6 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU.v
+Z7 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1655478097.079000
+Z13 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z14 !s100 X6?bjKm9T>YK1HWk^liAY0
+Z15 IhF[d7lUDi3L]m_oI[YbdQ3
+Z16 VbS?M<52OCImVSZ7L1]9FD2
+R4
+Z17 w1655061475
+Z18 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath.v
+Z19 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath.v|
+R10
+Z21 !s108 1655478097.219000
+Z22 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath_tb
+Z23 !s100 D0>21_DglBcM:JeM7FRRK3
+Z24 I_1z4S6W;3[9?oOYX5U[]i0
+Z25 VEWO?_?OX`2EgcWCd@z7jn1
+R4
+Z26 w1655061389
+Z27 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath_tb.v
+Z28 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath_tb.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath_tb.v|
+R10
+Z30 !s108 1655478097.298000
+Z31 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/datapath_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_2to4
+Z32 !s100 G=_Q05@k2=Z;FRRfUVEk62
+Z33 IE>ckOWk?1IdAD[WEUi<Gl3
+Z34 VoP>i=66djJaDSG=?Ngcon1
+R4
+Z35 w1654796412
+Z36 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4.v
+Z37 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4.v
+L0 1
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4.v|
+R10
+Z39 !s108 1655478096.692000
+Z40 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_2to4_tb
+Z41 !s100 6I@3P0nRiIb2l6BimXa593
+Z42 I8b>GLkdfoBIfE@l4`FQXf3
+Z43 V2d7=?ZJJj4n<1>MhYikQf0
+R4
+Z44 w1654796617
+Z45 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4_tb.v
+Z46 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4_tb.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4_tb.v|
+R10
+Z48 !s108 1655478096.770000
+Z49 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/decoder_2to4_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_FSM
+Z50 !s100 5gNNBan]ED0CeL?E0<d3z1
+Z51 IgI4:8O2B:jZ4>iF@n]>f20
+Z52 Vn5z<;4P8C^cGXN<<b`OAa1
+R4
+Z53 w1654979753
+Z54 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM.v
+Z55 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM.v
+L0 1
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM.v|
+R10
+Z57 n@f@i@b@o_@f@s@m
+Z58 !s108 1655478097.751000
+Z59 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFIBO_FSM_tb
+Z60 !s100 @?m^>_Glzz[KnAl@nX<O82
+Z61 IzULT8[LnDW?]6G`Jh=Na_1
+Z62 VQelhb;IYjTd8RSChQ`iUU2
+R4
+Z63 w1654979859
+Z64 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM_tb.v
+Z65 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM_tb.v
+L0 1
+R8
+r1
+31
+Z66 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM_tb.v|
+R10
+Z67 n@f@i@b@o_@f@s@m_tb
+Z68 !s108 1655478097.813000
+Z69 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FIBO_FSM_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM
+Z70 !s100 ;UbO=W]Vm]iXAjWWJWG@81
+Z71 I9m6<4OSP9?Sk7K[>e]XjU3
+Z72 V@>>azbme2K5gFF0Nzno<z2
+R4
+Z73 w1655414351
+Z74 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM.v
+Z75 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM.v
+L0 1
+R8
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM.v|
+R10
+Z77 n@f@s@m
+Z78 !s108 1655478097.485000
+Z79 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_DECO
+Z80 !s100 _=;E:<NL?i4d<]VHn;oAb3
+Z81 IdUPeYH:g7N7YdADM?45^H3
+Z82 V=^j]_eod?ZBGh0LW[Wb=H3
+R4
+Z83 w1654976140
+Z84 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO.v
+Z85 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO.v
+L0 1
+R8
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO.v|
+R10
+Z87 n@f@s@m_@d@e@c@o
+Z88 !s108 1655478097.610000
+Z89 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_DECO_tb
+Z90 !s100 SbzGSN7j3=`YiORB`QLAF1
+Z91 IinjJJ27hK<]j0[J;n928S3
+Z92 VHK[^^WAM1Za^J27^R]^gc2
+R4
+Z93 w1654976393
+Z94 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO_tb.v
+Z95 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO_tb.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO_tb.v|
+R10
+Z97 n@f@s@m_@d@e@c@o_tb
+Z98 !s108 1655478097.672000
+Z99 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_DECO_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_tb
+Z100 !s100 2II3=bQEFmOD]7QnR?[iS2
+Z101 IFZ]6E_Y8:H9MDc7JmGj>f1
+Z102 V2eHo]0H<DGHe8GUFX^7I53
+R4
+Z103 w1654970435
+Z104 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_tb.v
+Z105 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_tb.v
+L0 1
+R8
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_tb.v|
+R10
+Z107 n@f@s@m_tb
+Z108 !s108 1655478097.547000
+Z109 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/FSM_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+Z110 !s100 aJ@Q?XL1o99JD_@>LD4ld1
+Z111 I7]HTCeNA3]6UXO6:F3]]`0
+Z112 V8B]3dL15WgVI1IL_T4WWd1
+R4
+Z113 w1654951564
+Z114 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux2to1.v
+Z115 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux2to1.v
+L0 1
+R8
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux2to1.v|
+R10
+Z117 !s108 1655478097.360000
+Z118 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4to1
+Z119 !s100 dC?gBlPTgozY14YKHe@cn2
+Z120 IcYAmMIB_@246HS^ma9;l=1
+Z121 VJneWPO[cK]Fz83jl_1jn@3
+R4
+Z122 w1654952367
+Z123 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux4to1.v
+Z124 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux4to1.v
+L0 1
+R8
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux4to1.v|
+R10
+Z126 !s108 1655478097.423000
+Z127 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_2to1_parameterize
+Z128 !s100 5zM3R>m1HUUb`4Y9GFl9L0
+Z129 I^L_mSICTW=Mn9C45=fWNS1
+Z130 VOemUzf<jg`0I=^z6Z=?z^2
+R4
+Z131 w1654800775
+Z132 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_parameterize.v
+Z133 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_parameterize.v
+L0 1
+R8
+r1
+31
+Z134 !s108 1655413501.260000
+Z135 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_parameterize.v|
+Z136 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_parameterize.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_2to1_tb
+Z137 !s100 6fkC[ZTz5zN9UH8TX0?5L3
+Z138 I@8H`bLbBMn2oSi8>Abf5T3
+Z139 V6?jMf;c=14c9QcIC3EmfD3
+R4
+Z140 w1654952451
+Z141 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_tb.v
+Z142 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_tb.v
+L0 1
+R8
+r1
+31
+Z143 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_tb.v|
+R10
+Z144 !s108 1655478096.833000
+Z145 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_2to1_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_4to1_parameterize
+Z146 !s100 lT2I3NXANAmj@^nz7`=Kk3
+Z147 ITo2a?bNA41KYVbGPE`MCd1
+Z148 V=hn0HEOS6n[WBR<HSQK@:1
+R4
+Z149 w1654800777
+Z150 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_4to1_parameterize.v
+Z151 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_4to1_parameterize.v
+L0 1
+R8
+r1
+31
+Z152 !s108 1655413501.509000
+Z153 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_4to1_parameterize.v|
+Z154 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/mux_4to1_parameterize.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z155 !s100 dhjaoFzg^g0JeCC5zeW`<3
+Z156 IijgmEGz@ljf7A90=?9@N00
+Z157 V>gX79hOX?[cnDldecHcPi2
+R4
+Z158 w1655061254
+Z159 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register.v
+Z160 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register.v
+L0 1
+R8
+r1
+31
+Z161 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register.v|
+R10
+Z162 n@register
+Z163 !s108 1655478096.895000
+Z164 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_tb
+Z165 !s100 HS8o5emSO4LN865MTe^KY1
+Z166 I<ILd2JF3MPF0N7D];LUcS1
+Z167 VE5kjWJFB3GX<kD:MQn0^]2
+R4
+Z168 w1655061543
+Z169 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register_tb.v
+Z170 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register_tb.v
+L0 1
+R8
+r1
+31
+Z171 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register_tb.v|
+R10
+Z172 n@register_tb
+Z173 !s108 1655478096.957000
+Z174 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/Register_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_ALU
+Z175 !s100 2Bog?<:8T2>ZI@nbkk:I33
+Z176 IcmK`IATF3GVXFhgYQMg271
+Z177 VJ;TnOjHFn3KbASFPGPEl41
+R4
+Z178 w1654802004
+Z179 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU_tb.v
+Z180 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU_tb.v
+L0 1
+R8
+r1
+31
+Z181 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU_tb.v|
+R10
+Z182 ntb_@a@l@u
+Z183 !s108 1655478097.141000
+Z184 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/ALU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_mux_4to1
+Z185 !s100 fH9Y7MHg19dcTb^`d6_K`0
+Z186 I6JNI^ROONIPzcoO9zM=o82
+Z187 VAoj7TYZ84;_Dbf0_Hg>j11
+R4
+Z188 w1654951965
+Z189 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/tb_mux_4to1.v
+Z190 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/tb_mux_4to1.v
+L0 1
+R8
+r1
+31
+Z191 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/tb_mux_4to1.v|
+R10
+Z192 !s108 1655478097.023000
+Z193 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/tb_mux_4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_level
+Z194 !s100 88:F?ICc^<az0^l9MPNgX0
+Z195 IB^Bg_D6P73h>jC_`[9Ye>2
+Z196 Va=S6knc[3mZ86]Y4CDDHk3
+R4
+Z197 w1655414704
+Z198 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level.v
+Z199 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level.v
+L0 1
+R8
+r1
+31
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level.v|
+R10
+!i10b 1
+!s85 0
+Z201 !s108 1655478097.876000
+Z202 !s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level.v|
+!s101 -O0
+vtop_level_tb
+!i10b 1
+Z203 !s100 LBM[VH=SnD:59LPYhG?h20
+Z204 I;KOZ`8QN:;S[kj:gLcIR02
+Z205 V5Fjm16k>0FS^Dd>N[MS>:1
+R4
+Z206 w1655061760
+Z207 8C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level_tb.v
+Z208 FC:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1655478097.938000
+!s107 C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level_tb.v|
+Z209 !s90 -reportprogress|300|-work|work|C:/Users/berke/Desktop/Berke/METU/CNG/2/CNG 232/Logic Lab/fibo fsm datapath/top_level_tb.v|
+!s101 -O0
+R10
